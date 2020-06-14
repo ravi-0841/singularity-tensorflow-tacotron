@@ -31,6 +31,7 @@ From: tensorflow/tensorflow:1.12.0-devel-gpu-py3
   apt-get install -y libsm6 libxext6
   apt-get install -y libmagic-dev
   apt-get install -y libsndfile1
+  apt-get install -y libportaudio2
   pip install opencv-contrib-python
   pip install wrapt==1.12.0
   pip install pyyaml
