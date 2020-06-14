@@ -41,3 +41,5 @@ singularity exec --nv ./tensorflow.simg python softmax_regression.py
 
 Download this file: `wget https://raw.githubusercontent.com/marcc-hpc/tensorflow/1.8.0-gpu/tensorflow_job.sh`
 Submit job: `sbatch tensorflow_job.sh`
+
+Forked from MARCC
